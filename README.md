@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Savva</h1>
-- 💬 Ask me about **I am student college Sirius**
+- 💬 I am student college Sirius
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
